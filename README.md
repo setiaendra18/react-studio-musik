@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyek Ini Di Buat Dengan Menggunakan React JS  [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
